@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.study</groupId>
-    <artifactId>dataSstructure</artifactId>
+    <artifactId>DataStructure</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>dataSstructure</name>
+    <name>DataStructure</name>
 
     <modules>
         <module>MyArrayList</module>
